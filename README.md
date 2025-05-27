@@ -1,7 +1,7 @@
 # dotfiles
 ML4W customized dotfiles for Hyprland
 
-<h1>installation:</h1>h1>
+<h1>installation:</h1>
 
 1. <code>yay -S ml4w-hyprland</code>
 
