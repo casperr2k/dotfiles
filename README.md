@@ -9,6 +9,8 @@ ML4W customized dotfiles for Hyprland
 
 3. <code>cp -r dotfiles/* ~/dotfiles/.config/</code>
 
+4. <code>sudo reboot</code>
+
 <h1>screenshots:</h1>
 
 ![IMG_2453](https://github.com/user-attachments/assets/a47f0a5f-1cd6-4762-87b7-89e7ecfe7fb9)
