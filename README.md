@@ -7,7 +7,7 @@ ML4W customized dotfiles for Hyprland
 
 2. <code>ml4w-hyprland-setup</code>
 
-3. <code>cp -r dotfiles/* ~/.config/</code>
+3. <code>cp -r dotfiles/* ~/dotfiles/.config/</code>
 
 <h1>screenshots:</h1>
 
