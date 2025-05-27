@@ -1,0 +1,1 @@
+firejail chromium --incognito
